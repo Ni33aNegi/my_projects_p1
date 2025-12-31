@@ -12,10 +12,6 @@ Drill-down and filter options for detailed analysis
 
 KPIs to track business performance
 
-Clean and user-friendly visualization design
-
-📊 Tech Stack
-
 Power BI Desktop for data modeling and visualization
 
 Excel / CSV / SQL as data sources
@@ -24,4 +20,4 @@ DAX for calculated measures
 
 🚀 Outcomes
 
-This dashboard helps in identifying business trends, monitoring performance, and improving decision-making with real-time insights.
+This dashboard helps in identifying business trends, monitoring performance, and improving decision-making with real-time insights of the organisation so that we can asure our production is enough for maximum returns.
